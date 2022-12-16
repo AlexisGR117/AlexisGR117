@@ -5,4 +5,4 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=AlexisGR7&show_icons=true&theme=dracula")>
 </div>
 <h2 align="left">Most Used Languages</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGR7)](https://github.com/Jose-Gomez-C/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGR7)](https://github.com/AlexisGR7/github-readme-stats) 
