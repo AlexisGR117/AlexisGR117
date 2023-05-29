@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/AlexisGR117/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGR117&layout=donut-vertical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisGR117&layout=donut-vertical&theme=darcula" alt="Top Langs">
   </a>
 </p>
 
