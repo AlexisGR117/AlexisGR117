@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Jefer Alexis González Romero</h1>
 <h3 align="center">Systems Engineering student at the Escuela Colombiana de Ingeniería Julio Garavito</h3>
 
